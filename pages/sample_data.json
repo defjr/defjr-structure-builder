@@ -1,0 +1,90 @@
+[
+    {
+      "id": 1,
+      "parent": 0,
+      "droppable": true,
+      "text": "0000 - Introduction"
+    },
+    {
+      "id": 2,
+      "parent": 1,
+      "droppable": false,
+      "text": "0010 - Welcome",
+      "data": {
+        "fileType": "image"
+      }
+    },
+    {
+      "id": 3,
+      "parent": 1,
+      "droppable": false,
+      "text": "0020 - Objectives",
+      "data": {
+        "fileType": "text"
+      }
+    },
+    {
+      "id": 4,
+      "parent": 0,
+      "droppable": true,
+      "text": "1000 - ELO 1 Title"
+    },
+    {
+      "id": 5,
+      "parent": 4,
+      "droppable": false,
+      "text": "1010 - ELO 1",
+      "data": {
+        "fileType": "image"
+      }
+    },
+    {
+      "id": 9,
+      "parent": 4,
+      "droppable": false,
+      "text": "1020 - Reading",
+      "data": {
+        "fileType": "text"
+      }
+    },
+    {
+      "id": 10,
+      "parent": 4,
+      "droppable": false,
+      "text": "1030 - Knowledge Check",
+      "data": {
+        "fileType": "quiz"
+      }
+    },
+    {
+      "id": 6,
+      "parent": 0,
+      "droppable": true,
+      "text": "2000 - ELO 2 Title"
+    },
+    {
+      "id": 7,
+      "parent": 6,
+      "droppable": false,
+      "text": "2010 - ELO 2",
+      "data": {
+        "fileType": "image"
+      }
+    },
+    {
+      "id": 8,
+      "parent": 0,
+      "droppable": true,
+      "text": "3000 - Summary"
+    },
+    {
+      "id": 12,
+      "parent": 8,
+      "droppable": false,
+      "text": "3010 - Summary",
+      "data": {
+        "fileType": "text"
+      }
+    }
+  ]
+  

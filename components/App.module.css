@@ -1,0 +1,35 @@
+.app {
+  height: 100%;
+}
+  
+.treeRoot {
+  height: 100%;
+}
+  
+.draggingSource {
+  opacity: .3;
+}
+  
+.dropTarget {
+  background-color: #e8f0fe;
+}
+
+.current {
+  background-color: #f3f3f3;
+  margin: 8px;
+  padding: 8px;
+}
+
+.currentLabel {
+  font-weight: bold;
+  margin-inline-start: 0.5em;
+}
+
+.code {
+  background: #fafafa;
+  border-radius: 5px;
+  padding: 0.75rem;
+  font-size: 1.1rem;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+    Bitstream Vera Sans Mono, Courier New, monospace;
+}
